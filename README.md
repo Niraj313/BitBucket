@@ -1,8 +1,8 @@
-# React + Vite
+BitBucket: Crypto Tracker
+Welcome to BitBucket, your go-to crypto tracking tool! This application allows users to monitor real-time cryptocurrency prices, track their portfolio, and receive alerts on significant market movements.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Real-Time Data: Get up-to-date prices and market information for a wide range of cryptocurrencies.
+Price Alerts: Set custom alerts to notify you when a cryptocurrency hits a specific price.
+Historical Data: Access and analyze historical data to make informed investment decisions.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
