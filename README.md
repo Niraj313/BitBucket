@@ -1,5 +1,5 @@
 BitBucket: Crypto Tracker
-Welcome to BitBucket, your go-to crypto tracking tool! This application allows users to monitor real-time cryptocurrency prices, track their portfolio, and receive alerts on significant market movements.
+Welcome to BitBucket, your go-to crypto tracking tool! This application allows users to monitor real-time cryptocurrency prices.
 
 Features
 Real-Time Data: Get up-to-date prices and market information for a wide range of cryptocurrencies.
