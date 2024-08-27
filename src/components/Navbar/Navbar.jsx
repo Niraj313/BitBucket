@@ -2,6 +2,7 @@ import React, { useContext } from 'react'
 import './Navbar.css'
 import arrow_icon from '../../assets/arrow_icon.png'
 import { CoinContext } from '../../context/CoinContext'
+import { Link } from 'react-router-dom'
 
 const Navbar = () => {
 
@@ -28,7 +29,7 @@ const Navbar = () => {
     <div className='navbar'>
         <h1 className='logo'>BitBucket</h1>
         <ul>
-            <li>Home</li>
+            <Link to={'/'}> <li>Home</li></Link>
             <li>Features</li>
             <li>Pricing</li>
             <li>Blog</li>
